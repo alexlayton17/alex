@@ -1,6 +1,5 @@
 /* Name: Alex Layton
  * Date: 3/16/2021
- * Class: CSC 210
  * 
  * This is a LinkedList List class that will be backed up by Nodes. I will 
  * create a Node class and only have it wire to the front Node. This will be a
