@@ -4,7 +4,6 @@ import java.util.LinkedList;
 import java.util.Set;
 
 /* Name: Alex Layton
- * Class: CSC 210
  * Date: 3/29/2020
  * 
  * The purpose of this project is to implement our own hashMap. I am going to approach
