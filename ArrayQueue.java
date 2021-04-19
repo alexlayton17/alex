@@ -1,5 +1,4 @@
 /* Name: Alex Layton
- * Class: CSC 210
  * Date: 3/16/2021
  * 
  * This is an ArrayQueue class backed up by an Array. We are going
