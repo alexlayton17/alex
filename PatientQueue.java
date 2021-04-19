@@ -1,5 +1,4 @@
 /* Name: Alex Layton
- * Class: CSC 210
  * Date: 4/5/2020
  * 
  * Purpose: I will implement an implementation of a priority queue
